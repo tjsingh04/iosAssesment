@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B45D0FD7-A98D-4143-B4C8-D308B1268AEF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F01FC586-37EF-4FEB-8169-C152965166AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssesment/WebServices/Requests/NetworkResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init?(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECF50875-3A74-45FF-B9C5-C1D38896B34F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssesment/WebServices/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchData(param:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECF50875-3A74-45FF-B9C5-C1D38896B34F - 8a86db4b7ccea40c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;iOSAssesment.NetworkResponse&gt;, Swift.Optional&lt;iOSAssesment.NetworkError&gt;) -&gt; () in iOSAssesment.ApiRequest.fetchData(param: Swift.Dictionary&lt;Swift.String, Any&gt;, callback: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;iOSAssesment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssesment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Downloads/iOSAssesment/iOSAssesment/WebServices/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "ECF50875-3A74-45FF-B9C5-C1D38896B34F - e50f813f1e1f2ce8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;iOSAssesment.NetworkResponse&gt;, Swift.Optional&lt;iOSAssesment.NetworkError&gt;) -&gt; () in iOSAssesment.ApiRequest.fetchData(param: Swift.Dictionary&lt;Swift.String, Any&gt;, callback: (Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;&gt;, Swift.Optional&lt;iOSAssesment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssesment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Downloads/iOSAssesment/iOSAssesment/WebServices/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
